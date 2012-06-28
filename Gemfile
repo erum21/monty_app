@@ -14,7 +14,7 @@ end
 
 gem 'jquery-rails', '2.0.2'
 
-group :production do
+group :development do
   gem 'pg', '0.14.0'
 end
 
